@@ -6,3 +6,8 @@ print(cv2.__version__)
 
 
 conda install -c pytorch pytorch torchvision
+
+matplotlib:
+
+
+conda install -c conda-forge matplotlib
