@@ -11,3 +11,6 @@ matplotlib:
 
 
 conda install -c conda-forge matplotlib
+
+
+conda install pandas
